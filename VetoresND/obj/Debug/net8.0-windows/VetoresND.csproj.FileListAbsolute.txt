@@ -1,0 +1,17 @@
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.exe
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.deps.json
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.runtimeconfig.json
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.dll
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.pdb
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.FormMenu.resources
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.FormRandom.resources
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.csproj.GenerateResource.cache
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.GeneratedMSBuildEditorConfig.editorconfig
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.AssemblyInfoInputs.cache
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.AssemblyInfo.cs
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.dll
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\refint\VetoresND.dll
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.pdb
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.genruntimeconfig.cache
+F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\ref\VetoresND.dll
