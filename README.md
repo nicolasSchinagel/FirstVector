@@ -9,11 +9,17 @@ Passo 3: adicionar todo o projeto ao próximo commit
 Passo 4: Fazer o commit e comentá-lo
 ![git3](https://github.com/user-attachments/assets/8d5ac97c-143a-489e-87f5-e1e9d7307b32)
 
-Passo 5(Necessário apenas para colocar no github pela primeira vez), Especificar github e trocando o nome da branch para main, além de enviar os commits para o GitHub:
-git remote add origin https://github.com/nicolasSchinagel/a.git
-git branch -M main
-git push -u origin main
-.
+Passo 5(Necessário apenas para colocar no github pela primeira vez), Especificar github e trocando o nome da branch para main, além de enviar os commits para o GitHub:  
 
-Passo 6(atualizar o repositório com os novos commits):
+  
+git remote add origin https://github.com/nicolasSchinagel/a.git
+
+git branch -M main 
+
+git push -u origin main  
+
+  
+
+Passo 6(atualizar o repositório com os novos commits):  
+
 git push
