@@ -17,3 +17,22 @@ F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\Vetore
 F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\ref\VetoresND.dll
 F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.Form3.resources
 F:\2A-DS-PI\Nicolas e LucasD\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.sourcelink.json
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.exe
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.deps.json
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.runtimeconfig.json
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.dll
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\bin\Debug\net8.0-windows\VetoresND.pdb
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.FormMenu.resources
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.FormRandom.resources
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.Form3.resources
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.csproj.GenerateResource.cache
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.AssemblyInfoInputs.cache
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.AssemblyInfo.cs
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.csproj.CoreCompileInputs.cache
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.sourcelink.json
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.dll
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\refint\VetoresND.dll
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.pdb
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\VetoresND.genruntimeconfig.cache
+C:\Users\lizsc\OneDrive\Pictures\Níc\VetoresND\VetoresND\obj\Debug\net8.0-windows\ref\VetoresND.dll
