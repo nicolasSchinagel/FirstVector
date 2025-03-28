@@ -29,28 +29,28 @@
         private void InitializeComponent()
         {
             lblText1 = new Label();
-            txtramdom = new TextBox();
+            txtrandom = new TextBox();
             btngerar = new Button();
             SuspendLayout();
             // 
             // lblText1
             // 
             lblText1.AutoSize = true;
-            lblText1.Location = new Point(12, 69);
+            lblText1.Location = new Point(12, 39);
             lblText1.Name = "lblText1";
-            lblText1.Size = new Size(152, 15);
+            lblText1.Size = new Size(183, 15);
             lblText1.TabIndex = 0;
-            lblText1.Text = "Os números aleatórios são :";
+            lblText1.Text = "Os números aleatórios pares são :";
             // 
-            // txtramdom
+            // txtrandom
             // 
-            txtramdom.Enabled = false;
-            txtramdom.Location = new Point(170, 66);
-            txtramdom.Multiline = true;
-            txtramdom.Name = "txtramdom";
-            txtramdom.ReadOnly = true;
-            txtramdom.Size = new Size(379, 146);
-            txtramdom.TabIndex = 1;
+            txtrandom.Enabled = false;
+            txtrandom.Location = new Point(250, 22);
+            txtrandom.Multiline = true;
+            txtrandom.Name = "txtrandom";
+            txtrandom.ReadOnly = true;
+            txtrandom.Size = new Size(271, 91);
+            txtrandom.TabIndex = 1;
             // 
             // btngerar
             // 
@@ -69,7 +69,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(btngerar);
-            Controls.Add(txtramdom);
+            Controls.Add(txtrandom);
             Controls.Add(lblText1);
             Name = "FormRandom";
             Text = "FormRandom";
@@ -81,7 +81,7 @@
         #endregion
 
         private Label lblText1;
-        private TextBox txtramdom;
+        private TextBox txtrandom;
         private Button btngerar;
     }
 }

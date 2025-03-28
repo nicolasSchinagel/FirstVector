@@ -55,6 +55,7 @@
             exercicio2.Name = "exercicio2";
             exercicio2.Size = new Size(121, 20);
             exercicio2.Text = "Nota média escolar";
+            exercicio2.Click += exercicio2_Click;
             // 
             // FormMenu
             // 

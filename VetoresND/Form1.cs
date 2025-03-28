@@ -18,5 +18,12 @@ namespace VetoresND
         {
 
         }
+
+        private void exercicio2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form Form3 = new Form3();
+            Form3.Show();
+        }
     }
 }

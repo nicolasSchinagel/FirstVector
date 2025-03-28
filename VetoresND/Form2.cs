@@ -36,7 +36,7 @@ namespace VetoresND
             {
                 if (vetorpar[i] % 2 == 0)
                 {
-                    txtrandom.Text += vetorpar.ToString();
+                    txtrandom.Text += vetorpar[i].ToString() + " ";
                 }
             }
         }
